@@ -43,7 +43,7 @@ Este proyecto automatiza el flujo completo de un usuario en el portal bancario d
 ### 2. Clonar el proyecto
 
 ```bash
-git clone https://github.com/tu-repositorio/parabank-serenity.git
+git clone https://github.com/tu-repositorio/parabank-serenity.git](https://github.com/AndresLL-ingEPN/projectBase.git
 cd parabank-serenity
 
 ### 3. Ejecutar las pruebas
