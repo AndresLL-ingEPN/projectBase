@@ -65,6 +65,6 @@ Transferencia de dinero entre cuentas
 
 Validación de resultados
 
-📋 Reportes generados
+### 📋 Reportes generados
 Después de ejecutar las pruebas, los reportes HTML se encuentran en:
 target/site/serenity/index.html
